@@ -30,6 +30,7 @@ export default function Login() {
         <button type="button" onClick={signUp}>Sign Up</button>
       </form>
       {message && <p style={{ marginTop: 12 }}>{message}</p>}
+      
     </div>
   )
 }
