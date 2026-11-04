@@ -1,4 +1,4 @@
-export default function Home() {
+ export default function Home() {
   return (
     <main style={{ fontFamily: 'system-ui', padding: '40px', maxWidth: '720px', margin: '0 auto' }}>
       <h1>The Old Church with the Purple Door</h1>
